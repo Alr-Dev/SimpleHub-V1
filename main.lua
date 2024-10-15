@@ -7,9 +7,32 @@
  |_____/|_|_| |_| |_| .__/|_|\___| |_|  |_|\__,_|_.__/      \/    |_|
                     | |
                     |_|
-                    Made by: alr_dev
+                    Maded by: alr_dev
+
 ]]
-                    -- Some Variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
                     local Players = game:GetService('Players')
                     local LocalPlayer = Players.LocalPlayer
                     local Workspace = game:GetService("Workspace")
@@ -35,10 +58,10 @@
                     local Tab3 = Window:CreateTab("Scripts", 4483362458) 
                     local FlingTab = Window:CreateTab("Fling", 4483362458) 
                     local Xray = Window:CreateTab("Xray", 4483362458) 
-                    -- Sections
+                    
                     local Section = Tab:CreateSection("Tools")
                     
-                    -- Buttons
+                   
                     local DEX = Tab3:CreateButton({
                         Name = "Dex V2 (UNDECTATABLE VERSION, MODIFIED BY ALR_DEV)",
                         Callback = function()
